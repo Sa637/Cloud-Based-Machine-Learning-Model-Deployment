@@ -1,6 +1,5 @@
-# Cloud-Based-Machine-Learning-Model-Deployment
- Iris dataset analysis - Classification
- Dataset Information
+# Iris dataset analysis - Classification
+# Dataset Information
 
 The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
 
@@ -27,4 +26,4 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 <li>K-Nearest Neighbors
 <li>Decision Tree
   
-**Best Model Accuracy:**  91.11
+**Best Model Accuracy:** 100.00
